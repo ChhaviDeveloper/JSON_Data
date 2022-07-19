@@ -1,0 +1,180 @@
+{
+    "products": [
+    {
+        "product_id" : 1,
+        "category_id": "1",
+        "product_type" : "Dresses "
+    },
+    {
+        "product_id" : 2,
+        "category_id": "1",
+        "product_type" : "Top and Tshirts "
+    },
+    {
+        "product_id" : 3,
+        "category_id": "1",
+        "product_type" : "Kurta & Suits "
+    },
+    {
+        "product_id" : 4,
+        "category_id": "1",
+        "product_type" : "Saree "
+    },
+    {
+        "product_id" : 5,
+        "category_id": "1",
+        "product_type" : "Jeans "
+    },
+    {
+        "product_id" : 6,
+        "category_id": "1",
+        "product_type" : "Skirts & Shorts "
+    },
+    {
+        "product_id" : 7,
+        "category_id": "1",
+        "product_type" : "Jumpsuit "
+    },
+    {
+        "product_id" : 8,
+        "category_id": "1",
+        "product_type" : "Sweatshirts"
+    },
+    {
+        "product_id" : 9,
+        "category_id": "1",
+        "product_type" : "Jackets "
+    },
+    {
+        "product_id" : 10,
+        "category_id": "2",
+        "product_type" : "T-shirts"
+    },
+    {
+        "product_id" : 11,
+        "category_id": "2",
+        "product_type" : "Casual Shirts"
+    },
+    {
+        "product_id" : 12,
+        "category_id": "2",
+        "product_type" : "Formal Shirts"
+    },
+    {
+        "product_id" : 13,
+        "category_id": "2",
+        "product_type" : "Track Pants & Joggers "
+    },
+    {
+        "product_id" : 14,
+        "category_id": "2",
+        "product_type" : "Jeans"
+    },
+    {
+        "product_id" : 15,
+        "category_id": "2",
+        "product_type" : "Blazer & Coats"
+    },
+    {
+        "product_id" : 16,
+        "category_id": "2",
+        "product_type" : "Shorts"
+    },
+    {
+        "product_id" : 17,
+        "category_id": "2",
+        "product_type" : "Casual Trousers"
+    },
+    {
+        "product_id" : 18,
+        "category_id": "2",
+        "product_type" : "Formal Trousers"
+    },
+    {
+        "product_id" : 19,
+        "category_id": "3",
+        "product_type" : "T-Shirts | Boys"
+    },
+    {
+        "product_id" : 20,
+        "category_id": "3",
+        "product_type" : "T-Shirts | Girls"
+    },
+    {
+        "product_id" : 21,
+        "category_id": "3",
+        "product_type" : "Jeans | Boys"
+    },
+    {
+        "product_id" : 22,
+        "category_id": "3",
+        "product_type" : "Jeans | Girls"
+    },
+    {
+        "product_id" : 23,
+        "category_id": "3",
+        "product_type" : "Trousers | Boys"
+    },
+    {
+        "product_id" : 24,
+        "category_id": "3",
+        "product_type" : "Dresses | Girls"
+    },
+    {
+        "product_id" : 25,
+        "category_id": "3",
+        "product_type" : "Party Wear | Boys"
+    },
+    {
+        "product_id" : 26,
+        "category_id": "3",
+        "product_type" : "Party Wear | Girls"
+    },
+    {
+        "product_id" : 27,
+        "category_id": "3",
+        "product_type" : "Dungree & Jumpsuits | Girls"
+    },
+    {
+        "product_id" : 28,
+        "category_id": "3",
+        "product_type" : "Kurta Set | Girls"
+    },
+    {
+        "product_id" : 29,
+        "category_id": "4",
+        "product_type" : "Makeup"
+    },
+    {
+        "product_id" : 30,
+        "category_id": "4",
+        "product_type" : "Skincare"
+    },
+    {
+        "product_id" : 31,
+        "category_id": "4",
+        "product_type" : "Bath & Body"
+    },
+    {
+        "product_id" : 32,
+        "category_id": "4",
+        "product_type" : "Hair Care"
+    },
+    {
+        "product_id" : 33,
+        "category_id": "4",
+        "product_type" : "Fragrances"
+    },
+    {
+        "product_id" : 34,
+        "category_id": "4",
+        "product_type" : "Men's Grooming"
+    },
+    {
+        "product_id" : 35,
+        "category_id": "4",
+        "product_type" : "Appliances"
+    }
+
+  ]
+}

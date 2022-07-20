@@ -1,21 +1,19 @@
-{
-    "category": [
+[
     {
-        "id": 1,
+        "category_id": 1,
         "category":"Women"
     },
     {
-        "id": 2,
+        "category_id": 2,
         "category":"Men"
     },
     {
-        "id": 3,
+        "category_id": 3,
         "category":"Kids"
     },
     {
-        "id": 4,
+        "category_id": 4,
         "category":"Beauty & Personal Care"
     }
 
  ]
-} 
